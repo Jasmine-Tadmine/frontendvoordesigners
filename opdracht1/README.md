@@ -1,4 +1,6 @@
 # frontend voor designers - opdracht 1
+Als ik een lijst films heb gevonden, wil ik leuke films kunnen opslaan. Dit is het onderwerp dat ik heb gekozen om als een mobiele versie uit te werken.
+
 Hier beschrijf je de opdracht, wat je hebt gemaakt en hoe je je ontwerp door verschillende versies te testen hebt verbeterd. Bij iedere test voeg je een link toe naar de betreffende demo.
 
 Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
