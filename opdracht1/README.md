@@ -8,4 +8,4 @@ https://jasmine-tadmine.github.io/frontendvoordesigners/
 
 Je kan ook een link plaatsen naar de bron code van de demo:
 
-[Code demo 1 voor opdracht 1](https://github.com/KoopReynders/frontendvoordesigners/blob/master/opdracht1/v1/)
+[Code demo 1 voor opdracht 1](https://github.com/Jasmine-Tadmine/frontendvoordesigners/tree/master/opdracht1/v1)
