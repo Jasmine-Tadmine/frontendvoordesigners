@@ -1,0 +1,76 @@
+/*-----Header-----*/
+div {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+div>a {
+    text-decoration: none;
+    font-family: Open sans;
+    color: black;
+    font-weight: bold;
+}
+
+div>a>img {
+    max-width: 3em;
+}
+
+div>img {
+    height: 3em;
+}
+
+header {
+    background-color: red;
+    margin: -0.5em -0.5em 0 -0.5em;
+}
+
+/*-----Main page-----*/
+.films1, .films2, .fav {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-column-gap: 15%;
+    overflow: scroll;
+}
+
+.films1 img, .films2 img, .fav img {
+    max-width: 7em;
+    margin: 0.2em;
+}
+
+/*-----acrimomy page-----*/
+#popup {
+    margin-left: -19.5em;
+    margin-top: 0.6em;
+    transition: 0.1s ease-in-out;
+    height: 1.5em;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+.acri>img {
+    margin: -0.5em -1em 0 -0.5em;
+    max-width: 23.5em;
+}
+
+.acri div {
+    display: grid;
+    grid-template-columns: 90% 20%;
+}
+
+.acri div>img {
+    height: 2.5em;
+}
+
+.acri h1 {
+    font-size: 1.8em;
+    margin-top: auto;
+}
+
+.acri p {
+    margin-top: -.5em;
+}
