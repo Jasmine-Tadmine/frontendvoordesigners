@@ -4,7 +4,7 @@ Als ik een lijst films heb gevonden, wil ik leuke films kunnen opslaan. Dit is h
 Dit is de eerste versie van de site:
 [link naar site demo 1](https://jasmine-tadmine.github.io/frontendvoordesigners/opdracht1/v1/)
 
-[Link naar de code demo 1](https://github.com/Jasmine-Tadmine/frontendvoordesigners/tree/master/opdracht1/v1) 
+[Link naar de code demo 1] (https://github.com/Jasmine-Tadmine/frontendvoordesigners/tree/master/opdracht1/v1) 
 
 
 
