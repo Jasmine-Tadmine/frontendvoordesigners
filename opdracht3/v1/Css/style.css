@@ -1,0 +1,59 @@
+        /*HEADER*/
+div, header {
+    margin-top: auto;
+    padding: 0.5em;
+    background-color: black;
+    margin: -0.5em;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: helvetica;
+    font-size: 3em;
+    padding: 0.2em;
+}
+
+.back{
+    display:grid;
+    grid-template-columns: 25% 50% 25%;
+}
+
+.back>a>img {
+    width: 6em;
+    padding-top: 1.5em;
+    padding-left: 5em;
+
+}
+
+        /*MAIN PAGE*/
+a {
+    text-decoration: none;
+    color: black;
+}
+
+article, section {
+    margin: 1em;
+    display: block;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+h2 {
+    font-family: helvetica;
+    text-align: center;
+    margin-top: 2em;
+}
+
+p {
+    font-family: Helvetica;
+    margin: auto;
+}
+
+        /*EVIL DEAD PAGE*/
+.info p:last-of-type {
+    margin-top: 1em;
+}
