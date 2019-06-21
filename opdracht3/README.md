@@ -4,7 +4,7 @@ Voor opdracht 3 heb ik doormiddel van JSON een website vormgegeven. De link voor
 Link eerste versie (https://jasmine-tadmine.github.io/frontendvoordesigners/opdracht3/v1/)
 
 Na het testen met deze versie heb ik een een tweede versie gemaakt die de informatie van de films op dezelfde pagina toont.
-Link tweede versie (https://jasmine-tadmine.github.io/frontendvoordesigners/opdracht3/Versie2/)
+Link tweede versie (https://jasmine-tadmine.github.io/frontendvoordesigners/opdracht3/v2/)
 
 
 
