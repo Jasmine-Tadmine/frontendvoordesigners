@@ -1,6 +1,6 @@
 # frontend voor designers - opdracht 3
 
-Voor opdracht 3 heb ik doormiddel van JSON een website vormgegeven. De link voor de eerste versie is hieronder te zien.
+Voor opdracht 3 heb ik doormiddel van JSON een mobiele website vormgegeven. De link voor de eerste versie is hieronder te zien.
 Link eerste versie (https://jasmine-tadmine.github.io/frontendvoordesigners/opdracht3/v1/)
 
 Na het testen met deze versie heb ik een een tweede versie gemaakt die de informatie van de films op dezelfde pagina toont.
