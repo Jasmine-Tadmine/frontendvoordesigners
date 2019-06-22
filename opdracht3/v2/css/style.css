@@ -61,12 +61,19 @@ p:last-of-type {
 
 .info1 {
     visibility: hidden;
+    opacity: 0;
+    transition: .5s ease-in-out;
 }
 
 .info2 {
     visibility: hidden;
+    opacity: 0;
+    transition: .5s ease-in-out
 }
 
 .info3 {
     visibility: hidden;
+    opacity: 0;
+    transition: .5s ease-in-out
 }
+
